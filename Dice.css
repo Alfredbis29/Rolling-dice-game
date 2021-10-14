@@ -1,0 +1,21 @@
+#app{
+    text-align: center;
+    margin:center;
+    margin-top: 20%;
+}
+#roll{
+    margin-top: 5px;
+    background: whitesmoke;
+    border-radius: 4px;
+    width: 120px;
+}
+#roll:hover{
+    color: coral;
+}
+#text{
+position: absolute;
+width: 771px;
+height: 168px;
+left: 134px;
+top: 464px;
+}
